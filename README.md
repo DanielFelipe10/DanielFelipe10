@@ -1,7 +1,7 @@
 <div align="center"><img width="40" height="40" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif"></div>
 <h1 align="center">Hi, I'm Daniel!</h1>
 <div align="center">
-  <a href="https://www.linkedin.com/in/daniel-felipe-t-543822272" target="_blank"><img width="30" height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"></a>
+  <a href="https://www.linkedin.com/in/daniel-felipe-t-543822272" target="blank"><img width="30" height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"></a>
 </div>
 <h3 align="center">Technology stack</h3>
 <div align="center">
