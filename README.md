@@ -5,7 +5,7 @@
   # Hi, I'm Daniel!
   
 </div>
-
+<h4 align="center">Social Media</h4>
 <div align="center">
   <a href="https://www.linkedin.com/in/daniel-felipe-t-543822272" target="blank"><img width="30" height="30" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"></a>
 </div>
